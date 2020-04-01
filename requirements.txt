@@ -18,7 +18,7 @@ llvmlite==0.24.0
 lxml==4.2.5
 Mako==1.0.7
 networkx==2.2
-nltk==3.3
+nltk==3.4.5
 numba==0.39.0
 numpy==1.15.2
 pandas==0.23.4
