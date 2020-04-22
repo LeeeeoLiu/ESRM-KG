@@ -68,5 +68,20 @@ python3 translate.py -model path/to/saved/checkpoint/models
 We appreciate your citation if you find our dataset is beneficial.
 
 ```
-
+@inproceedings{10.1145/3366423.3380232,
+author = {Liu, Yuanxing and Ren, Zhaochun and Zhang, Wei-Nan and Che, Wanxiang and Liu, Ting and Yin, Dawei},
+title = {Keywords Generation Improves E-Commerce Session-Based Recommendation},
+year = {2020},
+isbn = {9781450370233},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3366423.3380232},
+doi = {10.1145/3366423.3380232},
+booktitle = {Proceedings of The Web Conference 2020},
+pages = {1604–1614},
+numpages = {11},
+keywords = {transformer network, Session-based recommendation, keywords generation},
+location = {Taipei, Taiwan},
+series = {WWW ’20}
+}
 ```
