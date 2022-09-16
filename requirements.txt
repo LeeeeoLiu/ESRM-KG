@@ -16,7 +16,7 @@ Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 llvmlite==0.24.0
 lxml==4.2.5
-Mako==1.0.7
+Mako==1.2.2
 networkx==2.2
 nltk==3.4.5
 numba==0.39.0
