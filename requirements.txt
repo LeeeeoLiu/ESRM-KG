@@ -1,7 +1,7 @@
 absl-py==0.6.1
 astor==0.7.1
 breadability==0.1.20
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 decorator==4.3.0
 dill==0.2.8.2
